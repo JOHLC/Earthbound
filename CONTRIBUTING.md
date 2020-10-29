@@ -13,4 +13,4 @@ Be sure to include a **title and clear description**, as much relevant informati
 
 Thanks!
 
-Transparent Blue
+[JOHLC](https://github.com/JOHLC/Mother/issues/new)
