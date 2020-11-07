@@ -8,7 +8,7 @@
 
 ## Screenshots
 **Main**<br />
-<img src="https://raw.githubusercontent.com/JOHLC/Mother/main/images/screenshot1.jpg" alt="Screenshot 1" width="100%">
+<img src="https://raw.githubusercontent.com/JOHLC/Earthbound/main/images/Screenshots/Screenshot1.png" alt="Screenshot 1" width="100%">
 
 
 
