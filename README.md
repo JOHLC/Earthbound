@@ -21,7 +21,7 @@
 6. Select the "Theme" category
 7. Select "ADD"
 8. Close this menu
-9. "Transparent Blue" should now show up as a new repository
+9. This theme should now show up as a new repository
 10. Click "INSTALL" then install again on the pop-up
 
 ### Manual Installation - not recommended<br /> 
